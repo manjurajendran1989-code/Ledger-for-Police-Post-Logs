@@ -1,2 +1,7 @@
 # Ledger-for-Police-Post-Logs
-Police check posts require a centralized system for logging, tracking, and analyzing vehicle movements. Currently, manual logging and inefficient databases slow down security processes. This project aims to build an SQL-based check post database with a Python-powered dashboard for real-time insights and alerts.
+
+ Data Cleaning , Handling Null value & Data type conversion
+ create & connect databse with python then create & insert cleaned dataframe
+ streamlite Dashboard created & conenct with DB to generate queries with web based app.. 
+ 
+ 
